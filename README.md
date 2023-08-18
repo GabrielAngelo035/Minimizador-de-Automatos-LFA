@@ -1,0 +1,1 @@
+# Minimizador-de-Automatos-LFA
